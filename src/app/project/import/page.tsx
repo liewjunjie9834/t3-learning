@@ -1,24 +1,20 @@
-import List from "./_components/deploy-list";
+// import List from "./_components/deploy-list";
 
 
-const Import =() => {
+// const Import =() => {
  
-    return (
-    <div className="bg-grey-700">
-        <List/>
+//     return (
+//     <div className="bg-grey-700">
+//         <List/>
 
 
 
-    </div>
+//     </div>
 
 
 
-    )
+//     )
 
 
 
-
-
-}
-
-export default Import;
+//     }
